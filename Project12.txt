@@ -1,5 +1,15 @@
 During a particular season, the main character, whose name is "Bob" was helping farmers to make pickles with his team. 
 
+<<<<<<< HEAD
 Now, "Bob" planned on making a fence so he said "Scoop" to use a backhoe for that purpose. 
+=======
+During spring, "Bob" was helping farmers in the fields to make pickles with his team. .
+A tool named Backhoe was used to dig a hole as a part of making the fence.
+The tool was happy to help with the task.
+Then "Scoop" said "what a beautiful spring day it is!".
+After the task, they took a break
+The game was "hide-and-seek".
+
+>>>>>>> origin/master
 
 "Scoop" was happy to help with the task.
