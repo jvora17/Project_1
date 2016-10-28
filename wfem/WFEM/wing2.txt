@@ -13,8 +13,8 @@ J2=0.95*(Ixx2+Izz2)
 
 element properties
 % Beam format
-% E G rho    A1  A2   J1 J2 Ixx1 Ixx2 Izz1 Izz2
-  steel     t^2 t^2   J1 J2 Ixx1 Ixx2 Izz1 Izz2
+% E G rho     A1  A2 J1 J2 Ixx1 Ixx2 Izz1 Izz2
+  steel      t^2 t^2 J1 J2 Ixx1 Ixx2 Izz1 Izz2
 %Note that these were defined above. I can use variables in my input file.
 % I also used "steel" as a property. WFEM has some of these predefined. 
 % Run "units" and type "who" to see variables/values available inside your
@@ -43,6 +43,7 @@ cjs elements
 6 7 1 1
 6 10 1 1
 7 8 1 1
+7 11 1 1
 8 12 1 1
 8 9 1 1
 9 12 1 1
