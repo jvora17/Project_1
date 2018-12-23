@@ -4,12 +4,12 @@
 - An input file that has an original Wing structure modelled using Beam Elements
 
 ### Actual wing structure:
-![display-img][alt](img/Actualwing.png)
+![display-img](img/Actualwing.png)
 
 
 ### FE wing modelled using Beam elements
 
-![display-img][alt](img/Actualwing.png)
+![display-img](img/Beammodelmode1.jpg)
 
 
 ### Other related projects:
