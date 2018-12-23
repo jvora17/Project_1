@@ -7,8 +7,7 @@
 ![display-img](imgs/Actualwing.png)
 
 
-### FE wing modelled using Beam elements
-
+### FE wing modelled using Beam elements:
 ![display-img](imgs/Beammodelmode1.jpg)
 
 
