@@ -1,4 +1,4 @@
-### Repository contains
+### Repository contains:
 
 - Working 3D beam/rod/torsion element(6 d.o.f/node) written in Matlab for Modeling and Analysis.
 - An input file that has an original Wing structure modelled using Beam Elements
@@ -19,7 +19,7 @@
 [Modal Analysis and Modal Assurance Criterion on the same wing structure ](https://github.com/sainag2473/ModalAnalysis_MAC_and_Modalupdating)
 
 
-### Required Toolbox to run the element
+### Required Toolbox to run the element:
 
 [WFEM](https://github.com/josephcslater/WFEM) : by Dr. Joseph Slater
 
